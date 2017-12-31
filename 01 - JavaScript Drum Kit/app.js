@@ -15,12 +15,11 @@ function playSound(e)
 }
 
 const keys=Array.from(document.querySelectorAll('.key'));
-keys.forEach(key=>key.addEventListener('transitionend',removeTransition));  // for each key in keys, attach this event - execute removeTransition()              
+keys.forEach(key=>key.addEventListener('transitionend',removeTransition));  // for each key in keys, execute removeTransition() when transition ends.              
 
 function removeTransition(e){
     if(e.propertyName!=='transform')  //out of the function if not a transform.
     return;
-    console.log(e.propertyName);
     this.classList.remove('playing');   //this - refers to key.
   }
 
