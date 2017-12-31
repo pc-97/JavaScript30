@@ -14,7 +14,7 @@ function playSound(e)
 
 }
 
-const keys=document.querySelectorAll('.key');
+const keys=Array.from(document.querySelectorAll('.key'));
 keys.forEach(key=>key.addEventListener('transitionend',removeTransition));  // for each key in keys, attach this event - execute removeTransition()              
 
 function removeTransition(e){
