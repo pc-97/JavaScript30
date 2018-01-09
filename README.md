@@ -6,3 +6,4 @@
 * [02 - CSS + JS Clock](http://www.prashantchamoli.tech/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/)
 * [03 - Playing with CSS variables and JS](http://www.prashantchamoli.tech/JavaScript30/03%20-%20CSS%20Variables/)
 * [04 - Array Cardio Day 1](http://www.prashantchamoli.tech/JavaScript30/04%20-%20Array%20Cardio%20Day%201/)
+* [05 - Flex Panels Image Gallery](http://www.prashantchamoli.tech/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
