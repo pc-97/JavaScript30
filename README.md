@@ -8,3 +8,4 @@
 * [04 - Array Cardio Day 1](http://www.prashantchamoli.tech/JavaScript30/04%20-%20Array%20Cardio%20Day%201/)
 * [05 - Flex Panels Image Gallery](http://www.prashantchamoli.tech/JavaScript30/05%20-%20Flex%20Panel%20Gallery/)
 * [06 - Ajax Type Ahead](http://www.prashantchamoli.tech/JavaScript30/06%20-%20Type%20Ahead/)
+* [06 - Array Cardio Day 2](http://www.prashantchamoli.tech/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
